@@ -1,4 +1,4 @@
-nclude "stdafx.h"
+#include "stdafx.h"
 #include "FoodBevManage.h"
 #include "Logindlg.h"
 #include "FoodBevManageDlg.h"
