@@ -1,3 +1,5 @@
+//made by:计科1201，田嘉蕊，04121031（30）
+
 #include "stdafx.h"
 #include "FoodBevManage.h"
 #include "Logindlg.h"
